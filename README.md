@@ -28,7 +28,8 @@ Dataset and source code for our work [Dataset and Enhanced Model for Eligibility
 - To test on pre-trained model by running:
  `python test.py --seed 1 --bS 2 --accumulate_gradients 8 --bert_type_abb uS --max_seq_leng 512` on terminal.
 
-- Pre-trained models can be download from [here](https://drive.google.com/open?id=1PJUw2xYMkghnJhKHDjuHIIaNi5wNDSa5). 
+- Pre-trained models can be download from [here](https://github.com/naver/sqlova/releases). 
+
 ### Dataset (data)
 Our dataset derives as [WikiSQL](https://github.com/salesforce/WikiSQL),  while include new types of SQL queries for order-sensitive eligibility criteria, counting-based eligibility criteria, boolean-type eligibility criteria.
 
