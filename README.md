@@ -31,7 +31,7 @@ Dataset and source code for our work [Dataset and Enhanced Model for Eligibility
 - Pre-trained models can be download from [here](https://github.com/xiaojingyu92/Criteria2SQL/releases). 
 
 ### Dataset (data)
-Our dataset derives from [WikiSQL](https://github.com/salesforce/WikiSQL), while includes new types of SQL queries for order-sensitive eligibility criteria, counting-based eligibility criteria, boolean-type eligibility criteria.
+Our dataset follows same format as [WikiSQL](https://github.com/salesforce/WikiSQL), while includes new types of SQL queries for order-sensitive eligibility criteria, counting-based eligibility criteria, boolean-type eligibility criteria.
 
 ###  Citation
 
