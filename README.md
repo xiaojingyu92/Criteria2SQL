@@ -1,10 +1,10 @@
 
 # Criteria2SQL
 
-A dataset and source code for our work [Dataset and Enhanced Model for Eligibility Criteria-to-SQL Semantic Parsing](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.714.pdf).
+Dataset and source code for our work [Dataset and Enhanced Model for Eligibility Criteria-to-SQL Semantic Parsing](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.714.pdf).
 
 ### Source code (src)
-- The implementation base on [SQLova](https://github.com/naver/sqlova). 
+- The implementation based on [SQLova](https://github.com/naver/sqlova). 
 #### Requirements
 - `python3.6` or higher.
 - `PyTorch 0.4.0` or higher.
